@@ -6,7 +6,7 @@ const { MessageEmbed } = require('discord.js')
 const client = new Discord.Client()
 
 
-const config = require('@root/config.json')
+//const config = require('@root/config.json')
 const command = require('@util/command')
 const commandBase = require('@root/commands/command-base')
 const loadCommands = require('@root/commands/load-commands')
